@@ -25,7 +25,7 @@ async def start(event):
              buttons=[
         [Button.url("➕𝐀𝐃𝐃 𝐌𝐄 𝐁𝐀𝐁𝐘➕", f"https://t.me/{BOT_USERNAME}?startgroup=true")],
         [Button.url("🥰𝐎𝐖𝐍𝐄𝐑🥰", "https://t.me/the_vip_boy")],
-        [Button.url("🌷𝐉𝐎𝐈𝐍🌷", f"https://t.me/{Config.SUPPORT}"), Button.url("🥀𝐎𝐅𝐅𝐈𝐂𝐄🥀", f"https://t.me/{Config.CHANNEL}")],
+        [Button.url("🌷𝐉𝐎𝐈𝐍🌷", f"https://t.me/lovers_dunia"), Button.url("🥀𝐎𝐅𝐅𝐈𝐂𝐄🥀", f"https://t.me/vip_creators")],
         [Button.inline("🌺𝐇𝐄𝐋𝐏 & 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒🌺", data="help")]])
        return
 
