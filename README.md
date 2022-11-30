@@ -1,23 +1,6 @@
 
-# Telethon-Music
+# Vip-Telethon-Music
 
-#
-
-<p align="center">𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧</p>
-
-<p align="center"><a href="https://replit.com/@Itz-zaid/Generator"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=web" width="220" height="38.45"/></a></p>
-
-# 
-
-<p align="center">Releasehub Tutorial </p>
-
-<p align="center"><a href="https://youtu.be/IDDyldUHOKo"> <img src="https://img.shields.io/badge/Releasehub%20Deploy-black?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
-
-# 
-
-<p align="center">Scalingo Tutorial </p>
-
-<p align="center"><a href="https://youtu.be/NjKUeaAM0RI"> <img src="https://img.shields.io/badge/Scalingo%20Deploy-blue?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
 
 ## ᴅᴇᴘʟᴏʏ
 
@@ -35,7 +18,7 @@ Note: This Code Based On Telethon So You need [Telethon String Session](https://
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
 ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables in config], ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
 
-<p align="center"><a href="https://railway.app/new/template?template=https://github.com/ITZ-ZAID/Telethon-Music/tree/railway&envs=STRING_SESSION,BOT_TOKEN,API_ID,API_HASH,BOT_USERNAME"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://railway.app/new/template?template=hhttps://github.com/THE-VIP-BOY-OP/VIP-MUSIC/tree/railway&envs=STRING_SESSION,BOT_TOKEN,API_ID,API_HASH,BOT_USERNAME"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
 
 ## Local Deployment Process
 ```sh
@@ -45,7 +28,7 @@ pip3 install -U pip
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash 
 source ~/.bashrc
 nvm install v18 #nodejs 18+
-git clone https://github.com/ITZ-ZAID/Telethon-Music # clone the repo.
+git clone https://github.com/THE-VIP-BOY-OP/VIP-MUSIC # clone the repo.
 cd Telethon-Music
 pip3 install -U -r requirements.txt
 nano config.py #edit your vars separate by space
@@ -56,10 +39,6 @@ python3 -m Zaid # run the bot.
 
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 / 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ----> </p>
 
-<p align="center"><a href="https://t.me/TheSupportChat"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-<p align="center"><a href="https://t.me/TheUpdatesChannel"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/LOVERS_DUNIA"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/VIP_CREATORS"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
-# Credits
-- Man Userbot
-- telethon library
-- pytgcalls
