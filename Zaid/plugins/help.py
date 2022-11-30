@@ -4,8 +4,8 @@ from Config import Config
 
 
 btn =[
-    [Button.inline("Admin", data="admin"), Button.inline("Play", data="play")],
-    [Button.inline("Home", data="start")]]
+    [Button.inline("🎄𝐀𝐃𝐌𝐈𝐍𝐒🎄", data="admin"), Button.inline("🌜𝐏𝐋𝐀𝐘🌛", data="play")],
+    [Button.inline("🏡𝐇𝐎𝐌𝐄🏡", data="start")]]
 
 HELP_TEXT = "Welcome To help Menu Section\n\nClick on the Buttons!"
 
