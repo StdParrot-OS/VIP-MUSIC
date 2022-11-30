@@ -23,10 +23,10 @@ async def start(event):
              Config.START_IMG,
              caption=PM_START_TEXT.format(event.sender.first_name), 
              buttons=[
-        [Button.url("➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ", f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-        [Button.url("👨‍💻 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", "https://github.com/ITZ-ZAID/Telethon-Music")],
-        [Button.url("🗣️ ꜱᴜᴘᴘᴏʀᴛ", f"https://t.me/{Config.SUPPORT}"), Button.url("📣 ᴜᴘᴅᴀᴛᴇꜱ", f"https://t.me/{Config.CHANNEL}")],
-        [Button.inline("ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅꜱ", data="help")]])
+        [Button.url("➕𝐀𝐃𝐃 𝐌𝐄 𝐁𝐀𝐁𝐘➕", f"https://t.me/{BOT_USERNAME}?startgroup=true")],
+        [Button.url("🥰𝐎𝐖𝐍𝐄𝐑🥰", "https://t.me/the_vip_boy")],
+        [Button.url("🌷𝐉𝐎𝐈𝐍🌷", f"https://t.me/{Config.SUPPORT}"), Button.url("🥀𝐎𝐅𝐅𝐈𝐂𝐄🥀", f"https://t.me/{Config.CHANNEL}")],
+        [Button.inline("🌺𝐇𝐄𝐋𝐏 & 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒🌺", data="help")]])
        return
 
     if event.is_group:
@@ -41,8 +41,8 @@ async def _(event):
         return
     if event.is_private:
        await event.edit(PM_START_TEXT.format(event.sender.first_name), buttons=[
-        [Button.url("➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ", f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-        [Button.url("👨‍💻 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", "https://github.com/ITZ-ZAID/Telethon-Music")],
-        [Button.url("🗣️ ꜱᴜᴘᴘᴏʀᴛ", f"https://t.me/{Config.SUPPORT}"), Button.url("📣 ᴜᴘᴅᴀᴛᴇꜱ", f"https://t.me/{Config.CHANNEL}")],
-        [Button.inline("ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅꜱ", data="help")]])
+        [Button.url("🥺𝐍𝐎𝐖 𝐀𝐃𝐃 𝐏𝐋𝐒𝐒🥺", f"https://t.me/{BOT_USERNAME}?startgroup=true")],
+        [Button.url("👿𝐎𝐖𝐍𝐄𝐑👿", "https://t.me/the_vip_boy")],
+        [Button.url("✨𝐉𝐎𝐈𝐍✨", f"https://t.me/{Config.SUPPORT}"), Button.url("🔥𝐎𝐅𝐅𝐈𝐂𝐄🔥", f"https://t.me/{Config.CHANNEL}")],
+        [Button.inline("🌟𝐇𝐄𝐋𝐏 & 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒🌟", data="help")]])
        return
